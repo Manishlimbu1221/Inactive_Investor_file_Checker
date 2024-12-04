@@ -1,0 +1,5 @@
+<config>
+    <sql_server>sql_server</sql_server>
+    <sql_database>databasename</sql_database>
+    <sql_driver>{ODBC Driver 17 for SQL Server}</sql_driver>
+</config>
