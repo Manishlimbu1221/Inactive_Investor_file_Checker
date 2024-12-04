@@ -20,7 +20,7 @@ InactiveChecker is a Python-based application designed to process files and iden
   - `pyodbc`
   - `pandas`
   - `re`
-  - `pyinstaller
+  - `pyinstaller`
 
  - Configure the settings.xml file:
  - Update the following fields with your SQL server details:
